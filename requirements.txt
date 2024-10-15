@@ -50,7 +50,7 @@ setuptools==72.1.0
 shellingham==1.5.4
 slowapi==0.1.9
 sortedcontainers==2.4.0
-starlette==0.37.2
+starlette==0.40.0
 tiktoken==0.7.0
 tokenizers==0.20.0
 torch==2.4.1
