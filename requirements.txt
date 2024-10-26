@@ -62,7 +62,7 @@ uvicorn==0.30.1
 uvloop==0.20.0
 watchfiles==0.24.0
 websockets==13.0.1
-Werkzeug==3.0.4
+Werkzeug==3.0.6
 wheel==0.43.0
 wrapt==1.16.0
 wsproto==1.2.0
