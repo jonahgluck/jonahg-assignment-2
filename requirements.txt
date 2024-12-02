@@ -42,7 +42,7 @@ pyparsing==3.1.4
 PyQt5==5.15.10
 pytest==8.3.3
 python-dotenv==1.0.1
-python-multipart==0.0.9
+python-multipart==0.0.18
 regex==2024.9.11
 rich==13.7.1
 selenium==4.23.1
